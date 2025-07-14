@@ -1,5 +1,5 @@
 
-public class linear{
+public class linear {
     public static void main(String[]args){
          int [] nums = {23, 54, 66, 48, 59};
          int target = 48;
@@ -17,6 +17,8 @@ public class linear{
                 return i;
             }
         }
+    
         return -1;
     }
-}
+  }
+  
