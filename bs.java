@@ -13,7 +13,7 @@ public class bs {
     }
 
     
-
+// order agnostic binary search
     static int binarysearch (int[] arr, int target) {
         int start = 0;
         int end = arr.length - 1;
